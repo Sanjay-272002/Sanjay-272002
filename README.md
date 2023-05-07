@@ -2,7 +2,11 @@
 <div id="header" align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPVw8kQmyeJzUPlmduUzRqlFsKKlYA-eAgCzZtz1V7_v6abNwQKsWWE84zEs_A1lPcBmw&usqp=CAU" width="100" height="100"/>
 </div>
-
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 ** ### Hi there 👋
 
