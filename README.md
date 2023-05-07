@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/CapgeminiIndia-coding-techchallenge2020-techchallenge-u2pmTWUi0MXjyrMaVj" width="100"/>
+  <img src="https://media0.giphy.com/media/i1JHRZSXO9LZZDHqii/200.webp?cid=ecf05e47tgqci4h96jmy6ixxkhrrxct93dh2aoz2hu67pnu6&ep=v1_gifs_search&rid=200.webp&ct=g" width="100"/>
 </div>
 
 
