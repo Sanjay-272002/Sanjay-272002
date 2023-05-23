@@ -25,8 +25,12 @@
 ### :man_technologist: About Me :
 
 
-* Hi all  I am A Sanjay Kumar, an aspiring ece graduate and a autodidact programmer with best knowledge and experience.I have always been interested in the field of designing.So my learning process of designing have started during my first year.I have started learning to use  photoshop,Illustrator and I have designed many posters and edited images and then I  moved on  into UI/UX designing using Figma. UI/UX design is the base of a website which induced me to learn web development to make the UI/UX  design live with functionalities.I have self learned  programming languages,full stack web development out of my own interest and developed many respective projects in it.I have  experience in working as Backend developer in a company as a Intern and I am also a part of departments web development team.My personal projects are listed in my github repositories.I have also good knowledge in arduino and IOT.
-* I have always been interested in learning new technologies and I Am  looking forward to learning more techs and widen my knowledge.
+* A prefinal year engineering graduate from an ECE background, learning and implementing the naive knowledge of programming in developing and designing customer-based applications. 
+My shoes chose the path of designing and making the frames more colorful and meaningful, which made me learn Illustrator and Photoshop. Later, it directed me to work on the UI/UX design platform. The idea of learning web development seems much more appealing after working in UI/UX design. 
+
+* As a self-taught programmer, I am proficient in full-stack web development and most other programming languages. My own interest led me to develop a few customer-based applications, which gave me enough confidence to join Banao Technologies as an intern. There, I got the opportunity to work as a back-end developer. 
+
+* I have been looking for a place to learn and implement my knowledge for practical applications.
 
 ---
 
