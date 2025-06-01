@@ -23,13 +23,12 @@
 
 
 ### :man_technologist: About Me :
+🚀 Software Developer | Full-Stack Enthusiast | Java • Spring Boot • React • Python
+* I’m Sanjay Kumar A, an engineering graduate (ECE) and self-taught programmer passionate about building impactful tech solutions. I currently work as a Java Developer at Ford Motors, where I’ve gained hands-on experience in designing, developing, and optimizing backend systems, APIs, and full-stack applications. 
 
-
-* A prefinal year engineering graduate from an ECE background, learning and implementing the naive knowledge of programming in developing and designing customer-based applications. 
-My shoes chose the path of designing and making the frames more colorful and meaningful, which made me learn Illustrator and Photoshop. Later, it directed me to work on the UI/UX design platform. The idea of learning web development seems much more appealing after working in UI/UX design. 
-
-* As a self-taught programmer, I am proficient in full-stack web development and most other programming languages. My own interest led me to develop a few customer-based applications, which gave me enough confidence to join Banao Technologies as an intern. There, I got the opportunity to work as a back-end developer. 
-
+* My journey into tech started with UI/UX design—learning tools like Illustrator and Photoshop to create meaningful digital experiences. That curiosity evolved into frontend development, then into full-stack engineering. Over time, I’ve developed skills in Java, Spring Boot, Python, JavaScript, React, Next.js, and more. 
+* I enjoy learning how things work under the hood and constantly push myself to explore new technologies. I’m currently diving into Machine Learning to broaden my technical horizon and better understand end-to-end systems.
+* I believe in continuous learning, solving real-world problems, and collaborating with teams that value curiosity and innovation.
 * I have been looking for a place to learn and implement my knowledge for practical applications.
 
 ---
